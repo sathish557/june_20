@@ -1,2 +1,2 @@
 file a created 
-line 2 created in master
+line 2 is added using f2
